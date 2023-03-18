@@ -94,17 +94,11 @@ a:visited {
   color: inherit;
 }
 
-.skillsLogo {
-  position: relative;
-  width: 35px;
-  height: 30px;
-  top: 10px;
-  bottom: auto;
-  margin-right: 15px;
-}
 
 .education .icon {
-  width: 80px;
+  width: 100px;
+  height: auto;
+
 }
 
 .education > h3,
